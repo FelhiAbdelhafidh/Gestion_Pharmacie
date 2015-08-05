@@ -1,7 +1,8 @@
-Ètapes:
-1: téléchager wampserver et netbeans
-2:intégrer le fichier sql dans wampserver 
+application java:
+
+Ãˆtapes:
+1: tÃ©lÃ©chager wampserver et netbeans
+2:intÃ©grer le fichier sql dans wampserver 
 3:executer votre application 
 
-et merci :)
 
